@@ -1,0 +1,28 @@
+# DemandStar (Euna OpenBids)
+
+> DemandStar is a shared supplier network for government eProcurement that has connected local, county, and state government agencies with business suppliers since 1998. Agencies publish bids, RFPs, and solicitations for free; suppliers subscribe to receive automated notifications matched through 9,000+ commodity codes, download bid packages, and submit electronic bid responses. Now part of Euna Solutions and rebranding as Euna OpenBids. DemandStar does not currently publish a public developer API; the links below cover the product and business surfaces.
+
+## Platform
+- [DemandStar network home](https://network.demandstar.com/): Overview of the government procurement network for agencies and suppliers.
+- [Product application (portal)](https://www.demandstar.com/): The DemandStar web application where suppliers and agencies operate.
+- [Browse bids & government contracts](https://www.demandstar.com/browse-bids): Searchable database of active and awarded bids and solicitations.
+
+## For Government
+- [For Government](https://network.demandstar.com/for-government/): How agencies post bids and reach the supplier network (free for governments).
+- [Government agency support](https://network.demandstar.com/agency-support-2/): Help resources for participating government agencies.
+
+## For Business / Suppliers
+- [For Business](https://network.demandstar.com/for-business/): How suppliers find and bid on government contracts.
+- [Supplier pricing](https://network.demandstar.com/pricing-suppliers/): Free and paid supplier subscription tiers ($99-$299/month by coverage).
+- [Business support](https://network.demandstar.com/business-support/): Help resources for supplier accounts.
+
+## Account
+- [Register](https://www.demandstar.com/app/registration): Create a supplier or agency account.
+- [Login](https://www.demandstar.com/app/login): Sign in to the DemandStar application.
+
+## Docs & Company
+- [Pricing](https://network.demandstar.com/pricing/): Plans for suppliers and government.
+- [FAQ](https://network.demandstar.com/faq/): Frequently asked questions.
+- [Blog](https://network.demandstar.com/topics/blogs/): Articles on government procurement and the network.
+- [Terms of Use](https://network.demandstar.com/terms-of-use/): Terms governing use of the platform.
+- [Privacy Policy](https://network.demandstar.com/privacy-policy/): How DemandStar handles data.

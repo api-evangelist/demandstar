@@ -1,9 +1,30 @@
 aid: demandstar
 name: Demandstar
-description: Demandstar is a company surfaced as a portfolio company of version-one-ventures and added
-  to the API Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment
-  pipeline.
+description: >-
+  DemandStar (now Euna OpenBids) is a shared supplier network for government
+  eProcurement that has connected local, county, and state government agencies
+  with business suppliers since 1998. Government agencies publish bids, RFPs, and
+  solicitations to the network for free, while suppliers subscribe to receive
+  automated notifications about relevant opportunities matched through more than
+  9,000 commodity codes, download bid packages, and submit electronic bid
+  responses online. The platform spans roughly 700 participating agencies and a
+  network of over 150,000 registered suppliers, offering free and paid supplier
+  tiers ($99-$299/month depending on geographic coverage) plus per-document
+  service fees. DemandStar is now part of Euna Solutions and rebranding as Euna
+  OpenBids as part of a broader public-procurement ecosystem.
 url: https://raw.githubusercontent.com/api-evangelist/demandstar/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://network.demandstar.com/wp-content/uploads/2021/03/demandstar-logo.png
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -12,12 +33,51 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-18'
 tags:
 - Company
+- Government
+- Procurement
+- eProcurement
+- Bids
+- RFP
+- Public Sector
+- Supplier Network
+- GovTech
+- Sourcing
 apis: []
+common:
+- type: DomainSecurity
+  url: security/demandstar-domain-security.yml
+- type: Website
+  url: https://network.demandstar.com/
+- type: Portal
+  url: https://www.demandstar.com/
+- type: Pricing
+  url: https://network.demandstar.com/pricing/
+- type: SignUp
+  url: https://www.demandstar.com/app/registration
+- type: Login
+  url: https://www.demandstar.com/app/login
+- type: TermsOfService
+  url: https://network.demandstar.com/terms-of-use/
+- type: PrivacyPolicy
+  url: https://network.demandstar.com/privacy-policy/
+- type: Blog
+  url: https://network.demandstar.com/topics/blogs/
+- type: Support
+  url: https://network.demandstar.com/business-support/
+- type: HelpCenter
+  url: https://network.demandstar.com/agency-support-2/
+- type: LLMsTxt
+  url: llms/demandstar-llms.txt
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-19'
+  status: backfilled
+  pass: local-v1
+  note: backfilled from .gitignore signal + verified work evidence
